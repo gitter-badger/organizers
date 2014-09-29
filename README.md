@@ -1,5 +1,6 @@
 organizers 
 ==========
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/pajarraco/organizers?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 [![Gitter chat](https://badges.gitter.im/nodeschool/organizers.png)](https://gitter.im/nodeschool/organizers)
 
